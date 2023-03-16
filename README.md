@@ -1,2 +1,2 @@
 # Tarefas
-trabalhos do curso Front End - Senai&Ford
+Trabalhos do curso Front End - Senai&Ford
